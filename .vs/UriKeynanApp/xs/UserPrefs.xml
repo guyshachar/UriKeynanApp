@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{6DE4AE99-9025-4229-80E4-E47276A1ECB6}|Default" GitUserInfo="UsingMD" BuildWithMSBuildOnMono="True">
+  <Debugger.DebugSourceFolders />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UriKeynanApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008030-001454413A38802E" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <AuthorInfo Name="Guy Shachar" Email="guyshachar.acc@gmail.com" Copyright="GS" Company="Guy Shachar" Trademark="" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UriKeynanApp" expanded="True">
+            <Node name="UriKeynanApp" expanded="True" selected="True">
+              <Node name="Assets.xcassets" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

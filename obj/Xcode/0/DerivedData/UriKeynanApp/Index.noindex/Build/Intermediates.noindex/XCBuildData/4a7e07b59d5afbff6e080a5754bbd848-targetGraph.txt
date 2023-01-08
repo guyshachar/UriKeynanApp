@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+UriKeynanApp in UriKeynanApp, no dependencies
+UriKeynanApp in UriKeynanApp, no dependencies

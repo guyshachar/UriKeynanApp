@@ -1,0 +1,5 @@
+RemoveDynamicRegistrar:true
+/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/bin/iPhone/Debug/device-builds/iphone12.3-16.2/WebKit_sample1.app:/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/iPhone/Debug/device-builds/iphone12.3-16.2/mtouch-cache/1-Link/WebKit_sample1.exe
+/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/bin/iPhone/Debug/device-builds/iphone12.3-16.2/WebKit_sample1.app:/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/iPhone/Debug/device-builds/iphone12.3-16.2/mtouch-cache/1-Link/mscorlib.dll
+/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/bin/iPhone/Debug/device-builds/iphone12.3-16.2/WebKit_sample1.app:/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/iPhone/Debug/device-builds/iphone12.3-16.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/bin/iPhone/Debug/device-builds/iphone12.3-16.2/WebKit_sample1.app:/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/iPhone/Debug/device-builds/iphone12.3-16.2/mtouch-cache/1-Link/System.dll

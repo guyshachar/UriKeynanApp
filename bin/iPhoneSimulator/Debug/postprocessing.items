@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="WebKit_sample1.app/WebKit_sample1">
+      <BCSymbolMapName>WebKit_sample1.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>WebKit_sample1.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/iPhoneSimulator/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>WebKit_sample1.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

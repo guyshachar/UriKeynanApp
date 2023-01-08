@@ -1,0 +1,61 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "b1cea0b2e67ecc9e0ffec3ca261077940881f20c639861ce3c39801eb99a3f0d"
+    }
+  ],
+  "containerPath" : "/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/Xcode/0/UriKeynanApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/Xcode/0/DerivedData/UriKeynanApp/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/Xcode/0/DerivedData/UriKeynanApp/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/Xcode/0/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/Xcode/0/DerivedData/UriKeynanApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/Xcode/0/DerivedData/UriKeynanApp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/Xcode/0/DerivedData/UriKeynanApp/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/Xcode/0/DerivedData/UriKeynanApp/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

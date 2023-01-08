@@ -1,0 +1,5 @@
+RemoveDynamicRegistrar:true
+/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/bin/iPhone/Release/WebKit_sample1.app:/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/iPhone/Release/mtouch-cache/1-Link/WebKit_sample1.exe
+/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/bin/iPhone/Release/WebKit_sample1.app:/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/bin/iPhone/Release/WebKit_sample1.app:/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/bin/iPhone/Release/WebKit_sample1.app:/Users/guyshachar/Projects/UriKeynanApp/UriKeynanApp/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
